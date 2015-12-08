@@ -1,0 +1,18 @@
+{
+	"name": "box-sizing.css",
+	"version": "1.0.0",
+	"description": "Inheriting box-sizing Probably Slightly Better Best-Practice",
+	"style": "box-sizing.css",
+	"files": [
+		"LICENSE.md",
+		"box-sizing.css"
+	],
+	"homepage": "http://github.com/nsisodiya/box-sizing.css",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/nsisodiya/box-sizing.css.git"
+	},
+	"main": "box-sizing.css",
+	"author": "Jonathan Neal <jonathantneal+github@gmail.com>",
+	"license": "MIT"
+}
