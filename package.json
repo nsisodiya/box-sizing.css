@@ -1,6 +1,6 @@
 {
 	"name": "box-sizing.css",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Inheriting box-sizing Probably Slightly Better Best-Practice",
 	"style": "box-sizing.css",
 	"files": [
