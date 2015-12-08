@@ -1,6 +1,6 @@
 # Install
 ```sh
-npm install box-sizing --save
+npm install box-sizing.css --save
 ```
 
 # box-sizing.css
